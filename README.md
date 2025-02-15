@@ -6,4 +6,6 @@ https://lucid.app/lucidchart/ca1e7bcb-a82a-4424-b1d0-83d8b6e046d1/edit?viewport_
 
 https://www.hackerrank.com/certificates/084dfe03c1d8
 
-3.SQL(Basic)
+3.SQL(Basic) Certificate
+
+https://www.hackerrank.com/certificates/iframe/01bc61b86921
