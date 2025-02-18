@@ -11,5 +11,4 @@ https://www.hackerrank.com/certificates/084dfe03c1d8
 https://www.hackerrank.com/certificates/iframe/01bc61b86921
 
 4.Google Colab
-
-http://localhost:8888/notebooks/colab.ipynb 
+Completed
